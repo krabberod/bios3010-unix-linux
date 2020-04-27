@@ -14,5 +14,5 @@ You should already have registered and activated your account.
 ssh username@saga.sigma2.no
 ```
 
-Exercises/images/01_ssh_saga.png
-![ssh saga](/Exercises/images/2020/04/01_ssh_saga.png)
+
+![ssh saga](/Exercises/images/01_ssh_saga.png)
