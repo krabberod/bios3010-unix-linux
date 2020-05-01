@@ -64,4 +64,4 @@ Which version of linux is running on saga? Here are two ways of checking:
 
 
 
-Now move on to [Excercise 2](Exercises/Exercise_2_folder_structure.md)
+Now move on to [Excercise 2](Exercise_2_folder_structure.md)
