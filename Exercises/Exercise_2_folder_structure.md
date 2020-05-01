@@ -1,26 +1,26 @@
 # Ex. 2 - File System and Directories
 
-We will use the introduction to the file system and directory structure at Software Carpentry. I recommend that you go through these exercises if you are not already familiar with the folders in Linux. The introduction demonstrates the tree-like structure used by UNIX systems, how to navigate them  using command line only and how to move, copy, and remove files and directories.  
+We will use the introduction to the file system and directory structure provided by Software Carpentry. I recommend that you go through these exercises if you are not already familiar with folders and in Linux. The introduction demonstrates the tree-like structure used by UNIX systems, how to navigate them  using command line only and how to move, copy, and remove files and directories.  
 
 In order to get the same directories and files used in the exercise available on your home on Saga you can do the following (copy paste the commands in ```the grey boxes```):
-- Open your terminal and log on to Saga (see [Exercise 1](Exercises/Exercise_1.md))   
+- Open your terminal and log on to Saga if you are not already logged on (see [Exercise 1](Exercises/Exercise_1.md))   
   ```ssh username@saga.sigma2.no```
-- Check were you are (it should read something like /cluster/home/username).  
+- Check were you are (it should read something like _/cluster/home/username_).  
   ```pwd```  
-- Copy the zip-file with the data used in the exercise with this command (don't worry about the details for now, we will look at how to [download stuff later](Exercises/Exercise_3_first_cmds.md)):   
+- Copy the zip-file with the data used in the exercise with this command (don't worry about the details for now, we will look at how to [download stuff later](Exercises/Exercise_3_cmds.md)):   
   ```wget http://swcarpentry.github.io/shell-novice/data/data-shell.zip```
 - unzip the data:   
   ```unzip data-shell.zip```  
-- check that you now have some content in your home:   
+- check that you now have some content in your $HOME:   
   ```ls```
-- Optionally remove the zipfile (Careful, since there is no trashcan on sags the file will be lost forever)
+- _Optionally:_ remove the zipfile (Careful, since there is no trash can on Saga the file will be lost forever)  
   ```rm data-shell.zip```
 
 ### Now you should do these Software Carpentry:
-- [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html) to learn
+- [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html) were you will learn
     - ```ls``` - list files and directories
     - ```cd``` - change directories
-    - ```pwd``` - pint working directory
+    - ```pwd``` - print working directory
     - ```/``` - root or path
     - ```.``` - current directory
     - ```..```  - parent directory
@@ -32,7 +32,7 @@ In order to get the same directories and files used in the exercise available on
     - ```rm``` - rm files and directories (Careful! There is no trashcan on saga. Removed items will be lost forever)
     - about wildcards
 
-When you are done you can go to [Exercise 3](Exercises/Exercises_3_first_cmds.md)
+When you are done you can go to [Exercise 3](Exercises/Exercise_3_cmds.md)
 
 ### For those who want to learn more (not part of curriculum)
-This video explains some of the folders commonly found on linux computers for those who are particularly interested (for those who are interested). [DorianDotSlash - Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
+This video explains some of the folders commonly found on linux computers for those who are particularly interested. [DorianDotSlash - Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
