@@ -32,7 +32,7 @@ In order to get the same directories and files used in the exercise available on
     - ```rm``` - rm files and directories (Careful! There is no trashcan on saga. Removed items will be lost forever)
     - about wildcards
 
-When you are done you can go to [Exercise 3](Exercises/Exercise_3_cmds.md)
+When you are done you can go to [Exercise 3](Exercise_3_cmds.md)
 
 ### For those who want to learn more (not part of curriculum)
 This video explains some of the folders commonly found on linux computers for those who are particularly interested. [DorianDotSlash - Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
