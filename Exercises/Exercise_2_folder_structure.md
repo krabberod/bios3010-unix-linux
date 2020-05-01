@@ -3,11 +3,11 @@
 We will use the introduction to the file system and directory structure provided by Software Carpentry. I recommend that you go through these exercises if you are not already familiar with folders and in Linux. The introduction demonstrates the tree-like structure used by UNIX systems, how to navigate them  using command line only and how to move, copy, and remove files and directories.  
 
 In order to get the same directories and files used in the exercise available on your home on Saga you can do the following (copy paste the commands in ```the grey boxes```):
-- Open your terminal and log on to Saga if you are not already logged on (see [Exercise 1](Exercises/Exercise_1.md))   
+- Open your terminal and log on to Saga if you are not already logged on (see [Exercise 1](Exercise_1.md))   
   ```ssh username@saga.sigma2.no```
 - Check were you are (it should read something like _/cluster/home/username_).  
   ```pwd```  
-- Copy the zip-file with the data used in the exercise with this command (don't worry about the details for now, we will look at how to [download stuff later](Exercises/Exercise_3_cmds.md)):   
+- Copy the zip-file with the data used in the exercise with this command (don't worry about the details for now, we will look at how to [download stuff later](Exercise_3_cmds.md)):   
   ```wget http://swcarpentry.github.io/shell-novice/data/data-shell.zip```
 - unzip the data:   
   ```unzip data-shell.zip```  

@@ -1,9 +1,9 @@
-# Ex. 1 - Accessing Saga
+# Accessing Saga
 
 The first exercise takes you through the necessary steps to log on to Saga.
 You should already have registered and activated your account.
 
-### 0. Install a shell
+### 1. Install a shell
 You need to have a shell in order to log on to Saga.   
 
 **Mac and Linux users:**  
@@ -17,15 +17,15 @@ There are other alternatives for Windows, but they will not be covered in this c
 
 
 
-### 1. Start you terminal
+### 2. Start you terminal
 - **Windows** users start the _gitbash_ application from your start menu
 - **Mac** and **Linux** users start the _terminal_ application
 
 You should now have a terminal window with a cursor awaiting your commands.
 
-### 2. Use _ssh_ to log on to Saga
+### 3. Use _ssh_ to log on to Saga
 
-Next you will need  to open a connection to the computing cluster. **SSH**, (Secure Shell) is a network protocol that gives users a secure way to access a computer over an unsecured network typically used to log into a remote machine and execute commands. To access Saga you need your username, password and the adress to the cluster. You were asked to activate your user account a few weeks ago. If you didn't, check the message on Canvas by Jonas dated 23. April, and follow the instructions.
+Next you will need  to open a connection to the computing cluster. **SSH**, (Secure Shell) is a network protocol that gives users a secure way to access a computer over an unsecured network typically used to log into a remote machine and execute commands. To access Saga you need your username, password and the address to the cluster. You were asked to activate your user account a few weeks ago. If you didn't, check the message on Canvas by Jonas dated 23. April, and follow the instructions.
 
 Saga is located at sigma2.no,but you also need to tell the server who you are by stating your username. The full command you should type in the terminal is, replacing "username" with your own username:
 
@@ -53,7 +53,7 @@ Which tells me that I'm currently located in the directory _anderkkr_ (which is 
 
 ```echo $HOME```
 
-This command will alway print the location of your home folder, which can be usefull if you get lost in the directories on saga. In the next exercise you will get a closer look at the directory structure in Linux systems.
+This command will alway print the location of your home folder, which can be useful if you get lost in the directories on saga. In the next exercise you will get a closer look at the directory structure in Linux systems.
 
 But let's check a few things first. Linux and Unix comes in many different versions and distributions:
 Which version of linux is running on saga? Here are two ways of checking:
