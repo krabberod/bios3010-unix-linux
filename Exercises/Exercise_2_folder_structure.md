@@ -1,8 +1,38 @@
-# Ex. 2 - File System and Directories structure
+# Ex. 2 - File System and Directories
 
-There is an excellent introduction  to the file system at Software Carpentry.
+We will use the introduction to the file system and directory structure at Software Carpentry. I recommend that you go through these exercises if you are not already familiar with the folders in Linux. The introduction demonstrates the tree-like structure used by UNIX systems, how to navigate them  using command line only and how to move, copy, and remove files and directories.  
 
+In order to get the same directories and files used in the exercise available on your home on Saga you can do the following (copy paste the commands in ```the grey boxes```):
+- Open your terminal and log on to Saga (see [Exercise 1](Exercises/Exercise_1.md))   
+  ```ssh username@saga.sigma2.no```
+- Check were you are (it should read something like /cluster/home/username).  
+  ```pwd```  
+- Copy the zip-file with the data used in the exercise with this command (don't worry about the details for now, we will look at how to [download stuff later](Exercises/Exercise_3_first_cmds.md)):   
+  ```wget http://swcarpentry.github.io/shell-novice/data/data-shell.zip```
+- unzip the data:   
+  ```unzip data-shell.zip```  
+- check that you now have some content in your home:   
+  ```ls```
+- Optionally remove the zipfile (Careful, since there is no trashcan on sags the file will be lost forever)
+  ```rm data-shell.zip```
 
+### Now you should do these Software Carpentry:
+- [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/index.html) to learn
+    - ```ls``` - list files and directories
+    - ```cd``` - change directories
+    - ```pwd``` - pint working directory
+    - ```/``` - root or path
+    - ```.``` - current directory
+    - ```..```  - parent directory
 
+- [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html) were you will learn
+    - ```cp``` - copy files and directories
+    - ```mkdir``` - make directories
+    - ```mv``` - move file and directories
+    - ```rm``` - rm files and directories (Careful! There is no trashcan on saga. Removed items will be lost forever)
+    - about wildcards
 
+When you are done you can go to [Exercise 3](Exercises/Exercises_3_first_cmds.md)
+
+### For those who want to learn more (not part of curriculum)
 This video explains some of the folders commonly found on linux computers for those who are particularly interested (for those who are interested). [DorianDotSlash - Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)
