@@ -1,5 +1,7 @@
 # Ex. 3 - Some important commands
 
+## UNDER CONSTRUCTION ##
+
 In this exercise we will look a handful of used Linux commands.
  Here is a nice cheat sheet that sums up the usage of some of them: [Dave Child cheat sheet. ](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 

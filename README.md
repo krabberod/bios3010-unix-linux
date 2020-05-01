@@ -25,5 +25,5 @@ To get a terminal with a functionality resembling that of a Linux machine on Win
 ### Exercises
 1) [Logging on to Saga](Exercises/Exercise_1.md)
 2) [Directory structures](Exercises/Exercise_2_folder_structure.md)
-3) [Common commands and how to use them](Exercises/Exercise_3_first_cmds.md)
+3) [Common commands](Exercises/Exercise_3_cmds.md)
 4) [Scripting (optional)](Exercises/Exercise_4_scripts.md)
