@@ -17,7 +17,7 @@ If you want to dig deeper into the differences between UNIX/linux and MacOS you 
 
 
 ### Software
-In order to get started you will need a shell. We will cover that topic in Exercises 1.
+In order to get started you will need a shell. This will be covered in Exercises 1.
 
 **Mac and Linux** machines already have a [terminal](https://en.wikipedia.org/wiki/Terminal_emulator) with access to UNIX/linux style commands. You don't have to do any extra installation of programs for accessing saga, but if you want to be a pro you call always [pimp your bash](https://www.itworld.com/article/2833199/3-ways-to-pimp-your-bash-console.html).
 
@@ -26,5 +26,8 @@ To get a terminal with a functionality resembling that of a Linux machine on Win
 
 ### Exercises
 1) [Logging on to Saga](Exercises/Exercise_1.md)
+   - Here you will learn to set up the shell and connect to the server
 2) [Directory structures](Exercises/Exercise_2_folder_structure.md)
-3) [Common commands and transferring files](Exercises/Exercise_3_cmds.md) 
+   - An introduction to the hierarchical file structure on Linux machines
+3) [Common commands and transferring files](Exercises/Exercise_3_cmds.md)
+   - This exercise will take you through how to transfer files to Saga, or and how to download files. You will also learn some of the most commonly used Linux commands. 
