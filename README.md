@@ -1,4 +1,4 @@
-# Page for BIOS3010 UNIX
+# Page for BIOS3010 - Introduction to UNIX
 
 This part of the course will show you how to access and use the supercomputer Saga and how to use UNIX (and Linux) commands.
 
