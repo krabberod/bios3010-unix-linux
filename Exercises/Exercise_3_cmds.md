@@ -19,7 +19,7 @@ In the following exercises will look at:
 
 If you want to transfer files to saga with a graphic interface follow the instructions from the [lecture](/Lectures/BIOS3010_Week19_intro_to_unix.pdf) slides 44-47 (for windows users) or 48-49 (mac users).
 
-Fro command line ```scp``` is used to copy files from one machine to a remote machine over a secure SSH connection.
+On command line ```scp``` is used to copy files from one machine to a remote machine over a secure SSH connection.
 
 The syntax of the scp command is similar to cp, but you can provide a host and username to direct the copying command to the correct host. ```scp``` is useful when you need to transfer files from saga to your computer (or from your computer to Saga). When downloading files from e.g. Saga it is easiest to do this when you are located on your computer, i.e. before logging on to the cluster. That is, open a new terminal window without logging on to the cluster, navigate to the folder on _your own computer_ where you will store the content. You can now use the short cut for "here" (the full stop ```.```) as you do with the ```cp```command. The biggest difference between ```cp``` and ```scp``` is that you will have to provide your username, the location of Saga, followed by a colon and the **the full path** to the file you want to download.
 
