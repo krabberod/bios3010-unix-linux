@@ -17,7 +17,7 @@ In the following exercises will look at:
 
 ### Copying and downloading files over networks
 
-If you want to transfer files to saga with a graphic interface follow the instructions from the [lecture](/Lectures/1_intro_to_unix.pdf) slides 44-47 (for windows users) or 48-49 (mac users).
+If you want to transfer files to saga with a graphic interface follow the instructions from the [lecture](/Lectures/BIOS3010_Week19_intro_to_unix.pdf) slides 44-47 (for windows users) or 48-49 (mac users).
 
 Fro command line ```scp``` is used to copy files from one machine to a remote machine over a secure SSH connection.
 
