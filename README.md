@@ -15,7 +15,7 @@ If you want to dig deeper into the differences between UNIX/linux and MacOS you 
 
 
 ### Software
-In order to get started you will need a shell. An we will cover that topic in Exercises 1.
+In order to get started you will need a shell. We will cover that topic in Exercises 1.
 
 **Mac and Linux** machines already have a [terminal](https://en.wikipedia.org/wiki/Terminal_emulator) with access to UNIX/linux style commands. You don't have to do any extra installation of programs for accessing saga, but if you want to be a pro you call always [pimp your bash](https://www.itworld.com/article/2833199/3-ways-to-pimp-your-bash-console.html).
 
