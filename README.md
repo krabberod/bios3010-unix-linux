@@ -2,6 +2,8 @@
 
 This part of the course will show you how to access and use the supercomputer Saga and how to use UNIX (and Linux) commands.
 
+PDF from the lecture can be found in the [Lectures folder](/Lectures/BIOS3010_Week19_intro_to_unix.pdf) as well as on Canvas.
+
 [Saga](https://www.sigma2.no/systems#saga) is a brand new high performance computing cluster put online in the fall of 2019. It's maintained by [Sigma2](https://www.sigma2.no/) and is one of several national supercomputers available for researchers. It has 200 standard compute nodes, with 40 cores and 192 GiB memory each, and in addition there are some specialized nodes (e.g. high-memory nodes with 3TiB memory or GPUs).
 
 Saga like most [supercomputers](https://en.wikipedia.org/wiki/Supercomputer_operating_systems) runs some version of Linux. In order to access and do stuff on Saga you need to learn some basic Linux (and UNIX-style) commands.
