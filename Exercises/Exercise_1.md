@@ -36,7 +36,7 @@ The first time you log on with _ssh_ it will not find the encryption keys, and w
 
 ![](/Exercises/images/01_Encryption_Key.png)
 
-Next you will be prompted about your password. When you have managed to successfully type your password (this is often harder than it sounds...) You should see something like this:
+Next you will be prompted about your password. Note that even though the cursor is not moving it will register your keystrokes! Try to type although nothing is happening on the screen and hit enter. When you have managed to successfully type your password (this is often harder than it sounds...). You should see something like this:
 
 ![ssh saga](/Exercises/images/01_ssh_saga.png)
 
