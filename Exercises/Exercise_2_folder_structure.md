@@ -23,7 +23,9 @@ In order to get the same directories and files used in the exercise available on
     - ```pwd``` - print working directory
     - ```/``` - root or path
     - ```.``` - current directory
-    - ```..```  - parent directory
+    - ```..```  - parent directory  
+
+(NB: Some of the solutions in the exercises assume that you are working on a personal computer with a slightly different set of folders than you will find in your home directory on Saga. In fact your home directory is empty until you download something to it. There is no ```Desktop```, ```Documents``` etc. Keep that in mind when you do the exercises.)
 
 - [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html) were you will learn
     - ```cp``` - copy files and directories
